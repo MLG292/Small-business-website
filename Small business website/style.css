@@ -1,0 +1,34 @@
+body {
+    background-color: darkorange;
+}
+@font-face {
+    font-family: boldd;
+    src: url(chinese\ rocks\ rg.otf);
+}
+@font-face {
+    font-family: cursive;
+    src: url(CedarvilleCursive-Regular.ttf);
+}
+@font-face {
+    font-family: smoothed;
+    src: url(Patchwork\ Stitchlings.ttf);
+}
+@font-face {
+    font-family: bread;
+    src: url(yummy_bread.ttf);
+}
+.firswor {
+    font-family: boldd;
+    font-size: 55;
+}
+.secowor {
+font-family: smoothed;
+font-size: 55;
+}
+.thirwor {
+font-family: smoothed;
+font-size: 55;
+}
+.giant {
+    font-size: 100px;
+}
